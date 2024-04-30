@@ -1,1 +1,2 @@
-This is a Django app that allows users to import data from an Excel spreadsheet using a Django admin site. The data can then be exported in different formats including as a JSON file. 
+This is a Django app that allows users to import and export data. The data can be imported from an Excel spreadsheet using a Django admin site. The data can then be exported in different formats including as a JSON file. 
+This project used manufacturer production data taken from the UK Government Office for National Statistics website to create an Excel spreadsheet. The column headings of the Excel sheet correspond to the fields in the Django model. 
